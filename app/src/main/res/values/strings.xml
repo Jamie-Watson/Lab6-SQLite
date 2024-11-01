@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lab6-SQLite</string>
+    <string name="product_id_label">Product ID:</string>
+    <string name="product_name_label">Product Name:</string>
+    <string name="product_quantity_label">Product Sku:</string>
+    <string name="add_button_label">Add</string>
+    <string name="delete_button_label">Delete</string>
+    <string name="find_button_label">Find</string>
+
+
+</resources>
